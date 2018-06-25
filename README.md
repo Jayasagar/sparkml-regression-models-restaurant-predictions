@@ -1,3 +1,8 @@
+Reference to the dataset is taken from kaggle https://www.kaggle.com/c/restaurant-revenue-prediction 
+
+This dataset has test, train and sample submission datasets. However, for this assignment, I have considered only training dataset primarily as my focus was to build various machine learning models and did analysis of all the algorithms with their error logs, parameter tuning with various parameters depending on the each algorithms
+
+
 #### Setup ####
 
 Note: Some of the command only works for MAC or Linux, please check for Windows if you have
